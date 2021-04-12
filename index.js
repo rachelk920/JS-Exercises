@@ -141,7 +141,7 @@ var sum = 10 + 10;
 
 // myVar = 12 - 6; // assigned 6
 // Change the 0 so the difference is 12.
-var difference = 45 - 0;
+var difference = 45 - 33;
 
 // 9 Basic JavaScript: Multiply Two Numbers with JavaScript
 // We can also multiply one number by another.
@@ -152,7 +152,7 @@ var difference = 45 - 0;
 
 // myVar = 13 * 13; // assigned 169
 // Change the 0 so that product will equal 80.
-var product = 8 * 0;
+var product = 8 * 10;
 
 // 10 Basic JavaScript: Divide One Number by Another with JavaScript
 // We can also divide one number by another.
@@ -163,4 +163,4 @@ var product = 8 * 0;
 
 // myVar = 16 / 2; // assigned 8
 // Change the 0 so that the quotient is equal to 2.
-var quotient = 66 / 0;
+var quotient = 66 / 33;
